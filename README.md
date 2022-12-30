@@ -1,10 +1,8 @@
+### *👋 Hey, I'm SystemFall !*  
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 </div>  
-  
-
-### *👋 Hey, I'm SystemFall !*  
-  
 
 # **<div align="center">----------------------{ About me }----------------------</div>**  
   
