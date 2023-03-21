@@ -34,7 +34,7 @@
 │
 ├─▣ I.T Analist and System Developer
 ├─▣ Python and C# developer
-├─▣ You may take a look at my <a href="https://github.com/theSystemFall/portfolio">Portifolio</a>
+├─▣ You may take a look at my <a href="https://github.com/theSystemFall/portfolio">portfolio</a>
 ├─▣ I'm currently working on <a href="https://github.com/theSystemFall/SystemBOT">SystemBOT</a>
 │
 └───────────────────────────────▰▰▰
@@ -43,7 +43,7 @@
 │
 ├─◈ I'm from Brasil and I'm currently living here
 ├─◈ I've started coding when I was 12 years old
-├─◈ Here is my <a href="https://www.instagram.com/porcoo.matheus">Instagram</a>
+├─◈ Wanna talk ? dm me on my <a href="https://www.instagram.com/porcoo.matheus">Instagram</a>
 │
 └───────────────────────────────▰▰▰
 
