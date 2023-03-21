@@ -1,34 +1,40 @@
 <pre>
-
-                                                -----
-                                              /      \
-                                              )      |
-       :================:                      "    )/
-      /||              ||                      )_ /*
-     / ||    System    ||                          *
-    |  ||     Down     ||                   (=====~*~======)
-     \ || Please wait  ||                  0      \ /       0
-       ==================                //   (====*====)   ||
-........... /      \.............       //         *         ||
-:\        ############            \    ||    (=====*======)  ||
-: ---------------------------------     V          *          V
-: |  *   |__________|| ::::::::::  |    o   (======*=======) o
-\ |      |          ||   .......   |    \\         *         ||
-  --------------------------------- 8   ||   (=====*======)  //
-                                     8   V         *         V
-  --------------------------------- 8   =|=;  (==/ * \==)   =|=
-  \   ###########################  \   / ! \     _ * __    / | \
-   \  +++++++++++++++++++++++++++   \  ! !  !  (__/ \__)  !  !  !
-    \ ++++++++++++++++++++++++++++   \        0 \ \V/ / 0
-     \________________________________\     ()   \o o/   ()
-      *********************************     ()           ()
-
+                       .,,uod8B8bou,,.
+              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
+         !.......:!?|||||!!^^""'            ||||
+         !.........||||                     ||||
+         !.........||||  ##                 ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         `.........||||                    ,||||
+          .;.......||||               _.-!!|||||
+   .,uodWBBBBb.....||||       _.-!!|||||||||!:'
+!YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
+!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
+!....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+!......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
+!........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
+`..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+  `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^'
+    `........::::::::::::::::;iof688888888888888888888b.     `
+      `......:::::::::;iof688888888888888888888888888888b.
+        `....:::;iof688888888888888888888888888888888899fT!
+          `..::!8888888888888888888888888888888899fT|!^"'
+            `' !!988888888888888888888888899fT|!^"'
+                `!!8888888888888888899fT|!^"'
+                  `!988888888899fT|!^"'
+                    `!9899fT|!^"'
+                      `!^"'
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ I.T Analist and System Developer
 ├─▣ Python and C# developer
-├─▣ You may take a look at my [Portfolio](https://github.com/theSystemFall/portfolio)
+├─▣ You may take a look at my <a href="https://github.com/theSystemFall/portfolio">Portifolio</a>
 ├─▣ I'm currently working on <a href="https://github.com/theSystemFall/SystemBOT">SystemBOT</a>
 │
 └───────────────────────────────▰▰▰
@@ -37,7 +43,7 @@
 │
 ├─◈ I'm from Brasil and I'm currently living here
 ├─◈ I've started coding when I was 12 years old
-├─◈ Here is my [Instagram](https://www.instagram.com/porcoo.matheus)
+├─◈ Here is my <a href="https://www.instagram.com/porcoo.matheus">Instagram</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -46,7 +52,7 @@
 ├─◈ Experienced Python developer ( 4+ Years )
 ├─◈ Intermediate C# developer ( 1+ Years )
 ├─◈ SQL databases, SQLITE, MYSQL, POSTGRESQL
-├─◈ Discord BOT development with [discord.py](https://github.com/rapptz/discord.py)
+├─◈ Discord BOT development with <a href="https://github.com/rapptz/discord.py">discord.py</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
