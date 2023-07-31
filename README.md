@@ -43,6 +43,7 @@
 │
 ├─◈ I'm from Brasil and I'm currently living here
 ├─◈ I've started coding when I was 12 years old
+├─◈ I'm currently working at EasyTrainers as a Fullstack Developer  
 ├─◈ Wanna talk ? dm me on my <a href="https://www.instagram.com/porcoo.matheus">Instagram</a>
 │
 └───────────────────────────────▰▰▰
