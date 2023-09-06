@@ -34,8 +34,8 @@
 │
 ├─▣ I.T Analist and System Developer
 ├─▣ Python and C# developer
-├─▣ You may take a look at my <a href="https://github.com/theSystemFall/portfolio">portfolio</a>
-├─▣ I'm currently working on <a href="https://github.com/theSystemFall/SystemBOT">SystemBOT</a>
+├─▣ You may take a look at my [Portifolio](https://github.com/theSystemFall/portfolio)
+├─▣ I'm currently working on [EasyTrainers-API](https://github.com/thesupremecode/easytrainers-api)
 │
 └───────────────────────────────▰▰▰
 
@@ -43,8 +43,8 @@
 │
 ├─◈ I'm from Brasil and I'm currently living here
 ├─◈ I've started coding when I was 12 years old
-├─◈ I'm currently working at EasyTrainers as a Fullstack Developer  
-├─◈ Wanna talk ? dm me on my <a href="https://www.instagram.com/porcoo.matheus">Instagram</a>
+├─◈ I'm currently working at SupremeCode as a Backend Engineer 
+├─◈ Wanna talk ? dm me on my [Instagram](https://www.instagram.com/porcoo.matheus)
 │
 └───────────────────────────────▰▰▰
 
@@ -52,8 +52,9 @@
 │
 ├─◈ Experienced Python developer ( 4+ Years )
 ├─◈ Intermediate C# developer ( 1+ Years )
-├─◈ SQL databases, SQLITE, MYSQL, POSTGRESQL
-├─◈ Discord BOT development with <a href="https://github.com/rapptz/discord.py">discord.py</a>
+├─◈ [PostgreSQL](https://www.postgresql.org/) and other SQL databases 
+├─◈ API development using python with [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+├─◈ Discord BOT development with [discord.py](https://github.com/rapptz/discord.py)
 │
 └───────────────────────────────▰▰▰
 </pre>
