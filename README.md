@@ -33,9 +33,8 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ I.T Analist and System Developer
-├─▣ Python and C# developer
-├─▣ You may take a look at my [Portifolio](https://github.com/theSystemFall/portfolio)
-├─▣ I'm currently working on [EasyTrainers-API](https://github.com/thesupremecode/easytrainers-api)
+├─▣ Software engineering student
+├─▣ Python developer
 │
 └───────────────────────────────▰▰▰
 
@@ -43,18 +42,15 @@
 │
 ├─◈ I'm from Brasil and I'm currently living here
 ├─◈ I've started coding when I was 12 years old
-├─◈ I'm currently working at SupremeCode as a Backend Engineer 
-├─◈ Wanna talk ? dm me on my [Instagram](https://www.instagram.com/porcoo.matheus)
+├─◈ I'm currently studying software engineering at UTFPR
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ SKILLS ├───────▰▰▰
 │
-├─◈ Experienced Python developer ( 4+ Years )
-├─◈ Intermediate C# developer ( 1+ Years )
-├─◈ [PostgreSQL](https://www.postgresql.org/) and other SQL databases 
-├─◈ API development using python with [Flask](https://flask.palletsprojects.com/en/2.3.x/)
-├─◈ Discord BOT development with [discord.py](https://github.com/rapptz/discord.py)
+├─◈ Experienced Python developer ( 5+ Years )
+├─◈ REST API development with FastAPI
+├─◈ Discord BOT development with Discord.py
 │
 └───────────────────────────────▰▰▰
-</pre>
+  </pre>
